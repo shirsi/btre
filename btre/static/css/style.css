@@ -20,7 +20,8 @@ img {
 }
 
 #showcase {
-  background: url(../img/showcase.png) no-repeat top center fixed/cover;
+  background: none !important;
+  background: url(../img/showcase.jpg) no-repeat top center fixed/cover;
   position: relative;
   min-height: 650px;
   color: #fff;
